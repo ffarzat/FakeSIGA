@@ -1,0 +1,29 @@
+*.dat
+*.iml
+*.log
+*.out
+*.pid
+*.seed
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+.DS_Store
+.idea
+.project
+.strong-pm
+coverage
+node_modules
+npm-debug.log
+
+# loopback files
+db.json
+
+# ionic files
+client/platforms/
+client/plugins/
+client/www/css/ionic.app.css
+client/www/css/ionic.app.min.css
+client/www/public/style.css
+client/www/public/style.js
+client/www/public/main.js

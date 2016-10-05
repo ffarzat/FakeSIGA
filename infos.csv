@@ -1,0 +1,11 @@
+ID;CPF;Matrícula;Nome;DataNascimento;Aluno;Professor;ProfessorVisitante;FuncionarioAdministrativo;FuncionarioTerceirizado
+1;14240136318;1;Talita Vieira Ribeiro;05/10/1988;1;0;0;0;0
+2;58500172240;2;Luciana Maria Azevedo Nascimento;05/03/1981;1;1;0;0;0
+3;74272458493;3;Guilherme Horta Travassos;15/01/1962;0;1;0;0;0
+4;24726178105;4;Fabio Farzat;02/05/1981;1;0;0;0;0
+5;75614582827;5;Hilmer Rodrigues Neri;04/10/1975;1;0;1;0;0
+6;69396648400;6;Francisco Carlos Ribeiro Junior;30/12/1986;0;0;0;0;1
+7;62685972579;7;Luiza Ermelinda Vieira de Macedo;31/05/1957;0;0;0;1;0
+8;91031255052;8;Breno Bernard Nicolau de França;03/03/1983;0;0;1;0;0
+9;36594147358;9;Gutierrez da Costa;28/02/1987;0;0;0;1;0
+10;23792756536;10;Maria de Lurdes da Silveira Gomes;07/04/1971;0;0;0;0;1
