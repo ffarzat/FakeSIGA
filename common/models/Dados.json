@@ -1,0 +1,53 @@
+{
+  "name": "Dados",
+  "plural": "Dados",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "CPF": {
+      "type": "string",
+      "required": true
+    },
+    "Matricula": {
+      "type": "string",
+      "required": false
+    },
+    "Nome": {
+      "type": "string",
+      "required": true,
+      "index": true
+    },
+    "DataNascimento": {
+      "type": "string",
+      "required": true,
+      "index": true
+    },
+    "Aluno": {
+      "type": "Boolean",
+      "required": true
+    },
+    "Professor": {
+      "type": "Boolean",
+      "required": true
+    },
+    "ProfessorVisitante": {
+      "type": "Boolean",
+      "required": true
+    },
+    "FuncionarioAdministrativo": {
+      "type": "Boolean",
+      "required": true
+    },
+    "FuncionarioTerceirizado": {
+      "type": "Boolean",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
