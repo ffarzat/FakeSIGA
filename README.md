@@ -1,3 +1,3 @@
 # FakeSIGA
 
-Serviço para integração dos projetos da disciplina. 
+Serviço para integração dos projetos da disciplina EEL878. 
